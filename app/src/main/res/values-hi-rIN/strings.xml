@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ACTVTest</string>
+    <string name="ecn">देश का नाम दर्ज करें: </string>
+    <string-array name="countries">
+        <item>इंडिया</item>
+        <item>कनाडा</item>
+        <item>ब्राज़िल</item>
+        <item>इन्डोनेशियाई</item>
+        <item>ऑस्ट्रेलिया</item>
+        <item>श्री लंका</item>
+    </string-array>
+</resources>
